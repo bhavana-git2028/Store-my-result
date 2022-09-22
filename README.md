@@ -11,5 +11,6 @@ Software Requirements:
 4. Front End Requirements -HTML, CSS, Javascript
 
 Hardware Requirements:
+
 • Pentium 200-MHz computer with a minimum of 64 MB of RAM(128 MB of RAM recommended).
 • Monitor with a refresh rate of at least 40Hz for a smooth GUI experience.
